@@ -2,7 +2,8 @@
 A Bootstrap template setup for new clients who want a basic information website from FAI Marketing Inc.
 
 ## Setup Agency ##
-~ Here are the steps to install Agency on Clients Server ~
+_Here are the steps to install Agency on Clients Server_
+```
 1) Setup Ubuntu Server
 2) Install Apache2
 3) Install PhP
@@ -11,15 +12,26 @@ A Bootstrap template setup for new clients who want a basic information website 
 6) Push Updated Code to new Git Repo
 7) Push Updated Code to Server
 8) Finish off any extra Security
+```
 
 # Hosting Packages To Select #
-_ Allow the customers to select from these Hosting Packages _
+_Allow the customers to select from these Hosting Packages_
+```
 1) Basic Hosting ~ $8/Mo
 2) Advanced Hosting ~ $13/Mo
 3) Ultimate Hosting ~ $25/Mo
+```
 
 # Security Package To Select #
-_ Allow the Customers to select from these Security Packages _
+_Allow the Customers to select from these Security Packages_
+```
 1) Basic Security (SSL Certification) ~ $0/Mo
 2) Advanced Security (SSL + Firewall) ~ $10/Mo
 3) Ultimate Security (SSL + Firewall + DDoS Protection) ~ $20/Mo
+```
+
+# Theme Managed By; #
+_Programmer & Linux Admin ~ C0d3 N3rd_
+```
+aubrey@fai.marketing
+```
