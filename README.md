@@ -2,7 +2,7 @@
 A Bootstrap template setup for new clients who want a basic information website from FAI Marketing Inc.
 
 ## Setup Agency ##
-_ Here are the steps to install Agency on Clients Server _
+~ Here are the steps to install Agency on Clients Server ~
 1) Setup Ubuntu Server
 2) Install Apache2
 3) Install PhP
